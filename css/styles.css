@@ -29,6 +29,15 @@
     color:#0f0f0f;
 }
 
+body {
+    padding: 50px 0 0 0;
+    z-index: 0;
+}
+
+.navbar-dark {
+    background-color: #512da8;
+}
+
 @media (max-width: 575.98px) {
     #history, #corporate {
         padding: 10px;
