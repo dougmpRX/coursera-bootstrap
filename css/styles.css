@@ -38,6 +38,14 @@ body {
     background-color: #512da8;
 }
 
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+
 @media (max-width: 575.98px) {
     #history, #corporate {
         padding: 10px;
